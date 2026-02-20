@@ -139,14 +139,3 @@ La mayoría de mis proyectos tienen un enfoque práctico y educativo, mostrando 
 </p>
 
 ---
-
-## 💡 Sobre mí
-
-Me enfoco en mejorar la calidad del frontend moderno combinando performance, mantenibilidad y experiencia de developer.
-
-Trabajo especialmente en:
-
-- mejoras de Core Web Vitals  
-- pipelines de calidad  
-- refactors de alto impacto  
-- tooling para equipos frontend  
