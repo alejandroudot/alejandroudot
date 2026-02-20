@@ -1,4 +1,3 @@
-```markdown
 # ¡Buenas! Soy Alejandro Maximiliano Udot 👋  
 **Frontend Engineer** enfocado en performance, arquitectura escalable y calidad de código.
 
@@ -91,4 +90,3 @@ Trabajo especialmente en:
 - pipelines de calidad  
 - refactors de alto impacto  
 - tooling para equipos frontend  
-```
