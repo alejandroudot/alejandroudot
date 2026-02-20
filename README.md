@@ -1,5 +1,5 @@
 # ¡Buenas! Soy Alejandro Maximiliano Udot 👋  
-**Frontend Engineer** enfocado en performance, arquitectura escalable y calidad de código.
+**FullStack Engineer** enfocado en performance, arquitectura escalable y calidad de código.
 
 Me especializo en construir interfaces robustas y sistemas frontend mantenibles, combinando buenas prácticas de ingeniería con foco real en métricas de negocio.
 
