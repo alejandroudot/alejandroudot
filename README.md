@@ -49,8 +49,8 @@ La mayoría de mis proyectos tienen un enfoque práctico y educativo, mostrando 
 ## 🛠 Tecnologías que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,scss,tailwind,webpack,vite" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,scss,tailwind,shadcn,radix,webpack,vite,nodejs,nestjs,remix" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,drizzle,aws" />
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,linux,vscode" />
 </p>
 
