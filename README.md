@@ -104,6 +104,8 @@ La mayoría de mis proyectos tienen un enfoque práctico y educativo, mostrando 
   <img src="https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/lint--staged-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Woodpecker%20CI-000000?style=for-the-badge&logo=woodpeckerci&logoColor=white" />
 
   <!-- Deploy -->
   <!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />-->
