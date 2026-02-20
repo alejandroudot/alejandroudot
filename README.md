@@ -54,7 +54,7 @@ La mayoría de mis proyectos tienen un enfoque práctico y educativo, mostrando 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <!-- UI / Design -->
