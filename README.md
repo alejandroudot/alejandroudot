@@ -130,10 +130,10 @@ La mayoría de mis proyectos tienen un enfoque práctico y educativo, mostrando 
 ## 📺 Encuéntrame en
 
 <p align="left">
-  <a href="[TU_LINKEDIN](https://www.linkedin.com/in/alejandro-udot/)">
+  <a href="https://www.linkedin.com/in/alejandro-udot/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="[TU_GITHUB](https://github.com/alejandroudot)">
+  <a href="https://github.com/alejandroudot">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
