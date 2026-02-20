@@ -46,7 +46,7 @@ La mayoría de mis proyectos tienen un enfoque práctico y educativo, mostrando 
 
 ---
 
-## 🛠 Tecnologías que uso
+## 🛠 Tecnologías que uso y/o use
 
 <p align="left">
 
